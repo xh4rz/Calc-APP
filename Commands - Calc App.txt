@@ -1,0 +1,20 @@
+1- npm install prop-types
+2- npm install lodash.words
+
+-------------------
+servidor
+deploy con firebase
+-----------------
+1- npm install -g serve
+2- npm run build
+3- serve -s build
+4- npm install -g firebase-tools
+
+5- firebase login -> hosting
+6- firebase init
+7- build
+
+
+8- firebase projects:list
+9- firebase use --add
+11- firebase deploy
